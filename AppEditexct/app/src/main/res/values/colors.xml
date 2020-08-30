@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBotao">#73BED1</color> //B
+    <color name="colorPrimaryDark">#5F9DAC</color> //A
+    <color name="colorAccent">#81D5EB</color> //C
+    <color name="colorFundo">#88E1F7</color> //D
+    <color name="colorPrimary">#3B616B</color> //E
+
+</resources>

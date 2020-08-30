@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppEditexct</string>
+    <string name="texto">Qual é o seu nome?</string>
+    <string name="botao">Confirmar</string>
+    <string name="dica">Preencha seu nome aqui</string>
+</resources>
